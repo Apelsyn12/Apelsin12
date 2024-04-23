@@ -1,6 +1,6 @@
 x = int(input('Enter a number: '))
 x1 = int(input('Enter a number: '))
-x2 = (input('Enter a number: (+,-,*,/,) '))
+x2 = (input('Enter a operation: (+,-,*,/,) '))
 if x2 == '/' and x1 != 0:
     print(x/x1)
 else:
