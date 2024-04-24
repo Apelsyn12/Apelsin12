@@ -7,4 +7,3 @@ else: print("uwu is less than 1")
 UWU = uwu.pop()
 uwu.insert(0, UWU)
 print(uwu)
-
